@@ -1,7 +1,5 @@
 Hello Students !
+Good Morning 
 
-Welcome Back to Git VCS
+Welcome Back to the class 
 
-Testing Stash 
-
-Testing Hooks
